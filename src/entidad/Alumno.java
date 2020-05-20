@@ -10,6 +10,7 @@ public class Alumno {
 	private String apellido;
 	private String fecha;
 	private String correo;
+	private String direcciom;
 
 	public int getIdAlumno() {
 		return idAlumno;
